@@ -1,0 +1,6 @@
+[submodule "bss-looker-security"]
+	path = bss-looker-security
+	url = git@github.com:simplybusiness/bss-looker-security.git
+[submodule "pa-extractor"]
+	path = pa-extractor
+	url = git@github.com:simplybusiness/pa-extractor.git
